@@ -1,0 +1,1042 @@
+{
+  "questions": [
+    {
+      "question": "Which city is the capital of the United States?",
+      "options": ["New York", "Los Angeles", "Washington, D.C.", "Chicago"],
+      "correctOption": 2,
+      "points": 2
+    },
+    {
+      "question": "Who was the first President of the United States?",
+      "options": [
+        "Abraham Lincoln",
+        "George Washington",
+        "Thomas Jefferson",
+        "John Adams"
+      ],
+      "correctOption": 1,
+      "points": 2
+    },
+    {
+      "question": "What year was the Declaration of Independence signed?",
+      "options": ["1776", "1787", "1492", "1801"],
+      "correctOption": 0,
+      "points": 4
+    },
+    {
+      "question": "Which document serves as the supreme law of the United States?",
+      "options": [
+        "The Declaration of Independence",
+        "The Constitution",
+        "The Bill of Rights",
+        "The Federalist Papers"
+      ],
+      "correctOption": 1,
+      "points": 5
+    },
+    {
+      "question": "How many states are in the United States?",
+      "options": ["48", "50", "52", "51"],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "Which U.S. state is the largest by area?",
+      "options": ["Texas", "California", "Alaska", "Montana"],
+      "correctOption": 2,
+      "points": 5
+    },
+    {
+      "question": "What is the national bird of the United States?",
+      "options": ["Eagle", "Hawk", "Falcon", "Owl"],
+      "correctOption": 0,
+      "points": 2
+    },
+    {
+      "question": "Which war was fought between the North and South regions in the United States?",
+      "options": [
+        "World War I",
+        "The Civil War",
+        "Revolutionary War",
+        "Spanish-American War"
+      ],
+      "correctOption": 1,
+      "points": 3
+    },
+    {
+      "question": "Who wrote the Declaration of Independence?",
+      "options": [
+        "Benjamin Franklin",
+        "George Washington",
+        "Thomas Jefferson",
+        "James Madison"
+      ],
+      "correctOption": 2,
+      "points": 4
+    },
+    {
+      "question": "What are the colors of the United States flag?",
+      "options": [
+        "Red, white, and blue",
+        "Red, white, and green",
+        "Blue, white, and yellow",
+        "Red, blue, and black"
+      ],
+      "correctOption": 0,
+      "points": 1
+    },
+    {
+      "question": "Which amendment gave women the right to vote?",
+      "options": [
+        "15th Amendment",
+        "19th Amendment",
+        "21st Amendment",
+        "13th Amendment"
+      ],
+      "correctOption": 1,
+      "points": 7
+    },
+    {
+      "question": "What is the tallest mountain in the United States?",
+      "options": ["Mount Whitney", "Mount Rainier", "Denali", "Mount Elbert"],
+      "correctOption": 2,
+      "points": 6
+    },
+    {
+      "question": "Which ocean is on the west coast of the United States?",
+      "options": [
+        "Atlantic Ocean",
+        "Pacific Ocean",
+        "Indian Ocean",
+        "Arctic Ocean"
+      ],
+      "correctOption": 1,
+      "points": 2
+    },
+    {
+      "question": "How many stripes are there on the U.S. flag?",
+      "options": ["13", "50", "7", "10"],
+      "correctOption": 0,
+      "points": 3
+    },
+    {
+      "question": "Who was the 16th President of the United States?",
+      "options": [
+        "Ulysses S. Grant",
+        "Thomas Jefferson",
+        "Abraham Lincoln",
+        "Theodore Roosevelt"
+      ],
+      "correctOption": 2,
+      "points": 4
+    },
+    {
+      "question": "What city is known as the 'Big Apple'?",
+      "options": ["Los Angeles", "Chicago", "New York City", "Miami"],
+      "correctOption": 2,
+      "points": 2
+    },
+    {
+      "question": "Which U.S. state is known as the 'Sunshine State'?",
+      "options": ["California", "Florida", "Texas", "Arizona"],
+      "correctOption": 1,
+      "points": 3
+    },
+    {
+      "question": "Which U.S. holiday commemorates the end of slavery?",
+      "options": [
+        "Independence Day",
+        "Labor Day",
+        "Juneteenth",
+        "Veterans Day"
+      ],
+      "correctOption": 2,
+      "points": 6
+    },
+    {
+      "question": "Who was the principal author of the U.S. Constitution?",
+      "options": [
+        "James Madison",
+        "Alexander Hamilton",
+        "Thomas Jefferson",
+        "Benjamin Franklin"
+      ],
+      "correctOption": 0,
+      "points": 7
+    },
+    {
+      "question": "Which U.S. state was the last to join the Union?",
+      "options": ["Alaska", "Hawaii", "Arizona", "New Mexico"],
+      "correctOption": 1,
+      "points": 6
+    },
+    {
+      "question": "What is the name of the U.S. national anthem?",
+      "options": [
+        "God Bless America",
+        "America the Beautiful",
+        "The Star-Spangled Banner",
+        "My Country, 'Tis of Thee"
+      ],
+      "correctOption": 2,
+      "points": 3
+    },
+    {
+      "question": "Which river is the longest in the United States?",
+      "options": [
+        "Mississippi River",
+        "Missouri River",
+        "Colorado River",
+        "Ohio River"
+      ],
+      "correctOption": 1,
+      "points": 5
+    },
+    {
+      "question": "What is the legislative branch of the U.S. government called?",
+      "options": ["Congress", "Supreme Court", "The Cabinet", "Senate"],
+      "correctOption": 0,
+      "points": 4
+    },
+    {
+      "question": "Which U.S. president signed the Emancipation Proclamation?",
+      "options": [
+        "George Washington",
+        "Abraham Lincoln",
+        "Theodore Roosevelt",
+        "Andrew Jackson"
+      ],
+      "correctOption": 1,
+      "points": 5
+    },
+    {
+      "question": "Where is the Statue of Liberty located?",
+      "options": [
+        "Boston",
+        "Washington, D.C.",
+        "New York Harbor",
+        "Philadelphia"
+      ],
+      "correctOption": 2,
+      "points": 1
+    },
+    {
+      "question": "What is the currency used in the United States?",
+      "options": ["Dollar", "Euro", "Pound", "Yen"],
+      "correctOption": 0,
+      "points": 1
+    },
+    {
+      "question": "Which war ended with the Treaty of Paris in 1783?",
+      "options": [
+        "World War I",
+        "The Civil War",
+        "The Revolutionary War",
+        "The Spanish-American War"
+      ],
+      "correctOption": 2,
+      "points": 6
+    },
+    {
+      "question": "Who was the first woman to serve on the U.S. Supreme Court?",
+      "options": [
+        "Ruth Bader Ginsburg",
+        "Sandra Day O'Connor",
+        "Sonia Sotomayor",
+        "Elena Kagan"
+      ],
+      "correctOption": 1,
+      "points": 8
+    },
+    {
+      "question": "Which U.S. state is famous for Hollywood?",
+      "options": ["New York", "Nevada", "California", "Texas"],
+      "correctOption": 2,
+      "points": 2
+    },
+    {
+      "question": "How many amendments does the U.S. Constitution currently have?",
+      "options": ["10", "27", "33", "50"],
+      "correctOption": 1,
+      "points": 7
+    },
+    {
+      "question": "Which president served the longest term in office?",
+      "options": [
+        "Franklin D. Roosevelt",
+        "George Washington",
+        "Thomas Jefferson",
+        "Theodore Roosevelt"
+      ],
+      "correctOption": 0,
+      "points": 6
+    },
+    {
+      "question": "What landmark decision declared segregation unconstitutional?",
+      "options": [
+        "Brown v. Board of Education",
+        "Roe v. Wade",
+        "Marbury v. Madison",
+        "Plessy v. Ferguson"
+      ],
+      "correctOption": 0,
+      "points": 8
+    },
+    {
+      "question": "Which U.S. state is known as the 'Lone Star State'?",
+      "options": ["Texas", "Nevada", "Arizona", "Colorado"],
+      "correctOption": 0,
+      "points": 3
+    },
+    {
+      "question": "Which U.S. city hosted the 1996 Summer Olympics?",
+      "options": ["Atlanta", "Los Angeles", "Chicago", "Miami"],
+      "correctOption": 0,
+      "points": 5
+    },
+    {
+      "question": "Who was the 44th President of the United States?",
+      "options": [
+        "George W. Bush",
+        "Barack Obama",
+        "Donald Trump",
+        "Bill Clinton"
+      ],
+      "correctOption": 1,
+      "points": 4
+    },
+    {
+      "question": "Which U.S. president is on the $100 bill?",
+      "options": [
+        "Abraham Lincoln",
+        "George Washington",
+        "Benjamin Franklin",
+        "Thomas Jefferson"
+      ],
+      "correctOption": 2,
+      "points": 4
+    },
+    {
+      "question": "What is the capital city of California?",
+      "options": ["Los Angeles", "San Francisco", "Sacramento", "San Diego"],
+      "correctOption": 2,
+      "points": 3
+    },
+    {
+      "question": "Which U.S. state is known for its potatoes?",
+      "options": ["Idaho", "Iowa", "Nebraska", "Montana"],
+      "correctOption": 0,
+      "points": 5
+    },
+    {
+      "question": "The U.S. government is divided into how many branches?",
+      "options": ["2", "3", "4", "5"],
+      "correctOption": 1,
+      "points": 3
+    },
+    {
+      "question": "What is the name of the legislative house in the U.S. Congress with proportional representation?",
+      "options": [
+        "Senate",
+        "House of Representatives",
+        "Supreme Court",
+        "Executive Branch"
+      ],
+      "correctOption": 1,
+      "points": 6
+    },
+    {
+      "question": "Which U.S. holiday celebrates the country's independence?",
+      "options": [
+        "Memorial Day",
+        "Labor Day",
+        "Independence Day",
+        "Veterans Day"
+      ],
+      "correctOption": 2,
+      "points": 2
+    },
+    {
+      "question": "What famous trail was used during westward expansion in the 19th century?",
+      "options": [
+        "Oregon Trail",
+        "Appalachian Trail",
+        "Pacific Crest Trail",
+        "Santa Fe Trail"
+      ],
+      "correctOption": 0,
+      "points": 7
+    },
+    {
+      "question": "Which U.S. state has the nickname 'The Empire State'?",
+      "options": ["New York", "New Jersey", "California", "Florida"],
+      "correctOption": 0,
+      "points": 3
+    },
+    {
+      "question": "Which U.S. president ended World War II?",
+      "options": [
+        "Harry S. Truman",
+        "Franklin D. Roosevelt",
+        "Dwight D. Eisenhower",
+        "John F. Kennedy"
+      ],
+      "correctOption": 0,
+      "points": 6
+    },
+    {
+      "question": "Which U.S. state is known as the 'Peach State'?",
+      "options": ["Georgia", "Alabama", "South Carolina", "Florida"],
+      "correctOption": 0,
+      "points": 4
+    },
+    {
+      "question": "What is the name of the U.S. national flower?",
+      "options": ["Rose", "Tulip", "Sunflower", "Daisy"],
+      "correctOption": 0,
+      "points": 3
+    },
+    {
+      "question": "Which U.S. city is known as 'Music City'?",
+      "options": ["Nashville", "Memphis", "New Orleans", "Austin"],
+      "correctOption": 0,
+      "points": 5
+    },
+    {
+      "question": "What is the nickname of the U.S. dollar?",
+      "options": ["Buck", "Coin", "Note", "Greenback"],
+      "correctOption": 3,
+      "points": 5
+    },
+    {
+      "question": "Which U.S. state was the first to ratify the Constitution?",
+      "options": ["Delaware", "Pennsylvania", "Virginia", "New York"],
+      "correctOption": 0,
+      "points": 8
+    },
+    {
+      "question": "Which U.S. national park is famous for its geysers and hot springs?",
+      "options": [
+        "Yellowstone National Park",
+        "Yosemite National Park",
+        "Grand Canyon National Park",
+        "Zion National Park"
+      ],
+      "correctOption": 0,
+      "points": 4
+    },
+    {
+      "question": "In what city did the Boston Tea Party take place?",
+      "options": ["New York City", "Philadelphia", "Boston", "Charleston"],
+      "correctOption": 2,
+      "points": 4
+    },
+    {
+      "question": "What was the name of the ship that brought the Pilgrims to America?",
+      "options": ["Santa Maria", "Pinta", "Mayflower", "Niña"],
+      "correctOption": 2,
+      "points": 5
+    },
+    {
+      "question": "Who was the primary leader of the Civil Rights Movement?",
+      "options": [
+        "Malcolm X",
+        "Martin Luther King Jr.",
+        "Rosa Parks",
+        "Frederick Douglass"
+      ],
+      "correctOption": 1,
+      "points": 3
+    },
+    {
+      "question": "What is the judicial branch of the U.S. government called?",
+      "options": ["Congress", "Supreme Court", "The Cabinet", "Senate"],
+      "correctOption": 1,
+      "points": 4
+    },
+    {
+      "question": "Which U.S. president is known for the 'New Deal'?",
+      "options": [
+        "Theodore Roosevelt",
+        "Woodrow Wilson",
+        "Franklin D. Roosevelt",
+        "Herbert Hoover"
+      ],
+      "correctOption": 2,
+      "points": 6
+    },
+    {
+      "question": "What is the largest freshwater lake by surface area entirely within the United States?",
+      "options": [
+        "Lake Huron",
+        "Lake Michigan",
+        "Lake Superior",
+        "Great Salt Lake"
+      ],
+      "correctOption": 1,
+      "points": 7
+    },
+    {
+      "question": "What is the official language of the United States?",
+      "options": [
+        "English",
+        "Spanish",
+        "There is no official language",
+        "French"
+      ],
+      "correctOption": 2,
+      "points": 6
+    },
+    {
+      "question": "Which U.S. state is home to the Grand Canyon?",
+      "options": ["Utah", "Nevada", "Colorado", "Arizona"],
+      "correctOption": 3,
+      "points": 3
+    },
+    {
+      "question": "What national monument features the faces of four U.S. presidents?",
+      "options": [
+        "Lincoln Memorial",
+        "Mount Rushmore",
+        "Jefferson Memorial",
+        "Washington Monument"
+      ],
+      "correctOption": 1,
+      "points": 4
+    },
+    {
+      "question": "Who was the only U.S. president to serve non-consecutive terms?",
+      "options": [
+        "Andrew Jackson",
+        "Grover Cleveland",
+        "Woodrow Wilson",
+        "Richard Nixon"
+      ],
+      "correctOption": 1,
+      "points": 8
+    },
+    {
+      "question": "What is the highest court in the United States?",
+      "options": [
+        "Court of Appeals",
+        "District Court",
+        "Supreme Court",
+        "Federal Court"
+      ],
+      "correctOption": 2,
+      "points": 4
+    },
+    {
+      "question": "Which U.S. city is famous for its cable cars and Alcatraz Island?",
+      "options": ["Seattle", "San Francisco", "Miami", "Boston"],
+      "correctOption": 1,
+      "points": 3
+    },
+    {
+      "question": "What famous speech begins with 'Four score and seven years ago...'?",
+      "options": [
+        "I Have a Dream",
+        "Gettysburg Address",
+        "Farewell Address",
+        "First Inaugural Address"
+      ],
+      "correctOption": 1,
+      "points": 5
+    },
+    {
+      "question": "What is the minimum age to be President of the United States?",
+      "options": ["25", "30", "35", "40"],
+      "correctOption": 2,
+      "points": 5
+    },
+    {
+      "question": "Which U.S. city is the birthplace of jazz music?",
+      "options": ["Chicago", "New York City", "New Orleans", "St. Louis"],
+      "correctOption": 2,
+      "points": 5
+    },
+    {
+      "question": "What document created the first national government of the United States?",
+      "options": [
+        "The Constitution",
+        "The Articles of Confederation",
+        "The Mayflower Compact",
+        "The Bill of Rights"
+      ],
+      "correctOption": 1,
+      "points": 9
+    },
+    {
+      "question": "Which U.S. state is known as the 'Grand Canyon State'?",
+      "options": ["Utah", "Arizona", "Nevada", "Colorado"],
+      "correctOption": 1,
+      "points": 2
+    },
+    {
+      "question": "What year did the United States enter World War II?",
+      "options": ["1939", "1941", "1945", "1950"],
+      "correctOption": 1,
+      "points": 5
+    },
+    {
+      "question": "What is the longest continuous hiking trail in the United States?",
+      "options": [
+        "Appalachian Trail",
+        "Pacific Crest Trail",
+        "Continental Divide Trail",
+        "Arizona Trail"
+      ],
+      "correctOption": 2,
+      "points": 9
+    },
+    {
+      "question": "What is the primary role of the Executive Branch?",
+      "options": [
+        "To make laws",
+        "To interpret laws",
+        "To enforce laws",
+        "To declare war"
+      ],
+      "correctOption": 2,
+      "points": 6
+    },
+    {
+      "question": "Who was the first Secretary of the Treasury?",
+      "options": [
+        "Thomas Jefferson",
+        "James Madison",
+        "Alexander Hamilton",
+        "Benjamin Franklin"
+      ],
+      "correctOption": 2,
+      "points": 8
+    },
+    {
+      "question": "Which U.S. state is famous for its Mardi Gras celebration?",
+      "options": ["Florida", "Texas", "Louisiana", "Mississippi"],
+      "correctOption": 2,
+      "points": 3
+    },
+    {
+      "question": "What event marked the end of the Cold War?",
+      "options": [
+        "Fall of the Berlin Wall",
+        "Cuban Missile Crisis",
+        "Korean War armistice",
+        "Vietnam War ceasefire"
+      ],
+      "correctOption": 0,
+      "points": 7
+    },
+    {
+      "question": "What are the first ten amendments to the U.S. Constitution called?",
+      "options": [
+        "Articles of Confederation",
+        "The Preamble",
+        "The Bill of Rights",
+        "The Federalist Papers"
+      ],
+      "correctOption": 2,
+      "points": 4
+    },
+    {
+      "question": "Which U.S. president oversaw the moon landing?",
+      "options": [
+        "John F. Kennedy",
+        "Lyndon B. Johnson",
+        "Richard Nixon",
+        "Dwight D. Eisenhower"
+      ],
+      "correctOption": 2,
+      "points": 6
+    },
+    {
+      "question": "Which U.S. city is often called the 'Windy City'?",
+      "options": ["Boston", "Seattle", "Chicago", "Denver"],
+      "correctOption": 2,
+      "points": 2
+    },
+    {
+      "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+      "options": [
+        "Bessie Coleman",
+        "Jacqueline Cochran",
+        "Amelia Earhart",
+        "Harriet Quimby"
+      ],
+      "correctOption": 2,
+      "points": 7
+    },
+    {
+      "question": "What is the electoral college?",
+      "options": [
+        "A group of universities",
+        "The process of electing judges",
+        "A system for electing the President and Vice President",
+        "A type of political debate"
+      ],
+      "correctOption": 2,
+      "points": 8
+    },
+    {
+      "question": "Which U.S. president is on the dime?",
+      "options": [
+        "George Washington",
+        "Thomas Jefferson",
+        "Abraham Lincoln",
+        "Franklin D. Roosevelt"
+      ],
+      "correctOption": 3,
+      "points": 5
+    },
+    {
+      "question": "What U.S. landmark is located at the confluence of the Missouri and Mississippi Rivers?",
+      "options": [
+        "Gateway Arch",
+        "Statue of Liberty",
+        "Golden Gate Bridge",
+        "Space Needle"
+      ],
+      "correctOption": 0,
+      "points": 6
+    },
+    {
+      "question": "Which U.S. state is famous for Silicon Valley?",
+      "options": ["Washington", "Oregon", "California", "Massachusetts"],
+      "correctOption": 2,
+      "points": 3
+    },
+    {
+      "question": "What does the phrase 'checks and balances' refer to in the U.S. government?",
+      "options": [
+        "Balancing the national budget",
+        "Dividing powers among branches",
+        "Voting procedures",
+        "The banking system"
+      ],
+      "correctOption": 1,
+      "points": 5
+    },
+    {
+      "question": "What year did the 9/11 terrorist attacks occur?",
+      "options": ["1998", "2001", "2003", "2005"],
+      "correctOption": 1,
+      "points": 4
+    },
+    {
+      "question": "What is the official residence of the U.S. President?",
+      "options": [
+        "Capitol Building",
+        "White House",
+        "Pentagon",
+        "Mount Vernon"
+      ],
+      "correctOption": 1,
+      "points": 1
+    },
+    {
+      "question": "Which U.S. state is known for its beautiful beaches and vibrant music scene, particularly in Miami?",
+      "options": ["California", "Florida", "Hawaii", "Texas"],
+      "correctOption": 1,
+      "points": 2
+    },
+    {
+      "question": "Who was the first African American President of the United States?",
+      "options": [
+        "Martin Luther King Jr.",
+        "Jesse Jackson",
+        "Barack Obama",
+        "Colin Powell"
+      ],
+      "correctOption": 2,
+      "points": 3
+    },
+    {
+      "question": "What U.S. city is home to the Freedom Trail?",
+      "options": [
+        "Philadelphia",
+        "Boston",
+        "New York City",
+        "Washington, D.C."
+      ],
+      "correctOption": 1,
+      "points": 5
+    },
+    {
+      "question": "What is the only U.S. state that shares a border with only one other state?",
+      "options": ["Maine", "Florida", "Hawaii", "Rhode Island"],
+      "correctOption": 0,
+      "points": 8
+    },
+    {
+      "question": "What was the period of widespread social activism and political reform across the United States from the 1890s to the 1920s?",
+      "options": [
+        "The Reconstruction Era",
+        "The Progressive Era",
+        "The Roaring Twenties",
+        "The Great Depression"
+      ],
+      "correctOption": 1,
+      "points": 9
+    },
+    {
+      "question": "Which U.S. state is nicknamed the 'Badger State'?",
+      "options": ["Michigan", "Minnesota", "Wisconsin", "Iowa"],
+      "correctOption": 2,
+      "points": 7
+    },
+    {
+      "question": "What is the main purpose of the Bill of Rights?",
+      "options": [
+        "To establish the electoral college",
+        "To define presidential powers",
+        "To protect individual liberties",
+        "To organize federal departments"
+      ],
+      "correctOption": 2,
+      "points": 5
+    },
+    {
+      "question": "Who invented the light bulb?",
+      "options": [
+        "Alexander Graham Bell",
+        "Isaac Newton",
+        "Thomas Edison",
+        "Nikola Tesla"
+      ],
+      "correctOption": 2,
+      "points": 3
+    },
+    {
+      "question": "Which U.S. river forms a large portion of the border between the U.S. and Mexico?",
+      "options": [
+        "Colorado River",
+        "Rio Grande",
+        "Mississippi River",
+        "Columbia River"
+      ],
+      "correctOption": 1,
+      "points": 4
+    },
+    {
+      "question": "What is the most populous city in the United States?",
+      "options": ["Los Angeles", "Chicago", "Houston", "New York City"],
+      "correctOption": 3,
+      "points": 2
+    },
+    {
+      "question": "Which U.S. president authorized the Louisiana Purchase?",
+      "options": [
+        "George Washington",
+        "John Adams",
+        "Thomas Jefferson",
+        "James Madison"
+      ],
+      "correctOption": 2,
+      "points": 6
+    },
+    {
+      "question": "What is the highest judicial body in the United States?",
+      "options": [
+        "Court of Appeals",
+        "Supreme Court",
+        "District Court",
+        "Federal Court of Claims"
+      ],
+      "correctOption": 1,
+      "points": 4
+    },
+    {
+      "question": "What U.S. holiday is celebrated on the fourth Thursday of November?",
+      "options": ["Veterans Day", "Columbus Day", "Thanksgiving", "Labor Day"],
+      "correctOption": 2,
+      "points": 2
+    },
+    {
+      "question": "Which U.S. city is known for its Golden Gate Bridge?",
+      "options": ["Seattle", "San Francisco", "Los Angeles", "Portland"],
+      "correctOption": 1,
+      "points": 2
+    },
+    {
+      "question": "Who was the last U.S. president to serve a full term in the 20th century?",
+      "options": [
+        "George H.W. Bush",
+        "Ronald Reagan",
+        "Bill Clinton",
+        "Jimmy Carter"
+      ],
+      "correctOption": 2,
+      "points": 7
+    },
+    {
+      "question": "What was the primary cause of the American Revolutionary War?",
+      "options": [
+        "Slavery",
+        "Religious persecution",
+        "Taxation without representation",
+        "Land disputes with Native Americans"
+      ],
+      "correctOption": 2,
+      "points": 4
+    },
+    {
+      "question": "Which U.S. state is famous for its active volcanoes and is an archipelago?",
+      "options": ["Alaska", "Oregon", "Hawaii", "Washington"],
+      "correctOption": 2,
+      "points": 4
+    },
+    {
+      "question": "What is the name of the legislative house in the U.S. Congress where each state has equal representation?",
+      "options": [
+        "House of Representatives",
+        "Senate",
+        "Supreme Court",
+        "Executive Branch"
+      ],
+      "correctOption": 1,
+      "points": 6
+    },
+    {
+      "question": "What year did the United States officially enter World War I?",
+      "options": ["1914", "1917", "1918", "1920"],
+      "correctOption": 1,
+      "points": 7
+    },
+    {
+      "question": "Which U.S. president delivered the 'I Have a Dream' speech?",
+      "options": [
+        "John F. Kennedy",
+        "Lyndon B. Johnson",
+        "Martin Luther King Jr.",
+        "Abraham Lincoln"
+      ],
+      "correctOption": 2,
+      "points": 3
+    },
+    {
+      "question": "What U.S. landmark is a national memorial to Abraham Lincoln?",
+      "options": [
+        "Washington Monument",
+        "Jefferson Memorial",
+        "Lincoln Memorial",
+        "Mount Rushmore"
+      ],
+      "correctOption": 2,
+      "points": 2
+    },
+    {
+      "question": "Which U.S. state is known as the 'Cornhusker State'?",
+      "options": ["Kansas", "Iowa", "Nebraska", "Illinois"],
+      "correctOption": 2,
+      "points": 6
+    },
+    {
+      "question": "What does the bald eagle symbolize in the United States?",
+      "options": ["Peace", "Prosperity", "Freedom and Strength", "Wisdom"],
+      "correctOption": 2,
+      "points": 2
+    },
+    {
+      "question": "Which U.S. city was the first capital of the United States under the Constitution?",
+      "options": [
+        "Boston",
+        "Philadelphia",
+        "New York City",
+        "Washington, D.C."
+      ],
+      "correctOption": 2,
+      "points": 8
+    },
+    {
+      "question": "What is the name of the mountain range that runs along the eastern side of the United States?",
+      "options": [
+        "Rocky Mountains",
+        "Appalachian Mountains",
+        "Sierra Nevada",
+        "Cascade Range"
+      ],
+      "correctOption": 1,
+      "points": 4
+    },
+    {
+      "question": "Who is considered the 'Father of His Country'?",
+      "options": [
+        "Thomas Jefferson",
+        "Benjamin Franklin",
+        "George Washington",
+        "John Adams"
+      ],
+      "correctOption": 2,
+      "points": 2
+    },
+    {
+      "question": "Which U.S. state is famous for its bayous and Cajun culture?",
+      "options": ["Mississippi", "Louisiana", "Alabama", "Arkansas"],
+      "correctOption": 1,
+      "points": 5
+    },
+    {
+      "question": "What important event happened at Lexington and Concord?",
+      "options": [
+        "Signing of the Declaration of Independence",
+        "First battles of the Revolutionary War",
+        "Surrender of Cornwallis",
+        "Constitutional Convention"
+      ],
+      "correctOption": 1,
+      "points": 7
+    },
+    {
+      "question": "What is the term for a naturalized citizen who was not born in the U.S. but can become President?",
+      "options": [
+        "Natural-born citizen",
+        "Electoral citizen",
+        "Resident citizen",
+        "No one not born in the U.S. can become President"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "What is the deepest lake in the United States?",
+      "options": ["Lake Superior", "Crater Lake", "Lake Tahoe", "Lake Chelan"],
+      "correctOption": 1,
+      "points": 8
+    },
+    {
+      "question": "Which U.S. city is home to the Gateway Arch?",
+      "options": ["Chicago", "St. Louis", "Kansas City", "Denver"],
+      "correctOption": 1,
+      "points": 4
+    },
+    {
+      "question": "What is the longest river in North America that flows entirely within Canada and the United States?",
+      "options": [
+        "Mackenzie River",
+        "Yukon River",
+        "Columbia River",
+        "Mississippi River"
+      ],
+      "correctOption": 3,
+      "points": 9
+    },
+    {
+      "question": "What U.S. holiday celebrates workers' contributions?",
+      "options": ["Memorial Day", "Labor Day", "Veterans Day", "Columbus Day"],
+      "correctOption": 1,
+      "points": 2
+    },
+    {
+      "question": "Who holds the record for most U.S. presidential terms?",
+      "options": [
+        "George Washington",
+        "Thomas Jefferson",
+        "Franklin D. Roosevelt",
+        "Theodore Roosevelt"
+      ],
+      "correctOption": 2,
+      "points": 4
+    }
+  ]
+}
